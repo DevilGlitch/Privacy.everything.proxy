@@ -29,3 +29,4 @@ This site has everything you need about proxies!
 For my school, the unblocked proxies are `securly.fail`, `formulatemath.com`, `geoponicmath.net`, `reapir.net`, and `cherrybar.org`.
 
 ## Make Sure to Check GameDocs.md
+[GameDocs.md]()
