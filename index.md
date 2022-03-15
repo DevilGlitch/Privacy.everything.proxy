@@ -28,6 +28,13 @@ This site has everything you need about proxies!
 
 For my school, the unblocked proxies are `securly.fail`, `formulatemath.com`, `geoponicmath.net`, `reapir.net`, and `cherrybar.org`.
 
-## Make Sure to Check GameDocs.md
-[GameDocs.md](https://github.com/DevilGlitch/Privacy.everything.proxy/blob/main/GameDocs.md)
+# Unblocked Games
+[IdleQuestRPG](https://www.iqrpg.com/game.html)
+    
+    This game is a sweaty try hard game in which you grind to be the best. Make sure to pay respects to the almighty god Carl
+    Check me out in game Im DevilGlitch
+<br>
+[Idle Game List](https://idle-js-games.github.io/idle-js-games-list/)
+<br>
+
 
